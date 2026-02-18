@@ -1,4 +1,4 @@
-# 🏆 Vouch Bot - Pure (Components v2)
+# 🏆 Vouch Bot (Components v2)
 
 Ein leistungsstarker Discord Vouch Bot, der das modernste **Discord Components v2** System nutzt, um eine premium Benutzeroberfläche zu bieten.
 
